@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=https://elgabbas.netlify.app/&style=for-the-badge&url=https://elgabbas.netlify.app/)](https://elgabbas.netlify.app/)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=elgabbas.elgabbas&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/elgabbas)
+
+
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=for-the-badge&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=hJ0tB04AAAAJ)
 <a href="https://twitter.com/ahmed_elgabbas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28></a> 
 <a href="https://www.linkedin.com/in/ahmed-elgabbas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=28></a> 
