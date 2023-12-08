@@ -31,7 +31,7 @@ https://elgabbas.netlify.app/
 
 <br>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=elgabbas.visitor-badge&left_text=Visitors%20since%20December%202023)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=elgabbas.visitor-badge&left_text=Page%20Visitors)
   
 <!--
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height=28>
